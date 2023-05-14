@@ -1,0 +1,10 @@
+{
+    "seed": 77,
+    "epoch": 40,
+    "lr": 0.0005,
+    "weight_decay": 0.0,
+    "bm": true,
+    "stack_last_frame": false,
+    "visualize": false,
+    "model_path": null
+}

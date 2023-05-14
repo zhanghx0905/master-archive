@@ -1,0 +1,6 @@
+{
+    "seed": 77,
+    "epoch": 5,
+    "weight_decay": 0.001,
+    "bm": true
+}

@@ -1,0 +1,1 @@
+[zhanghx0905/serverless-webapp: A serverless webapp demo with Flask, OpenFaaS, MySQL, MinIO and TensorFlow Serving (github.com)](https://github.com/zhanghx0905/serverless-webapp)
